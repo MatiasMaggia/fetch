@@ -1,0 +1,111 @@
+[
+    {
+        "img_url": "img/Abramovich-Gonzalo-400x300.jpg",
+        "id": 19,
+        "nombre": "Gonzalo",
+        "apellido": "Abramovich",
+        "posicion": "volante",
+        "edad": 23,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/Aguirre-Jose-400x300.jpg",
+        "id": 17,
+        "nombre": "Jose",
+        "apellido": "Aguirre",
+        "posicion": "volante",
+        "edad": 20,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/Avalos-Matias-400x300.jpg",
+        "id": 4,
+        "nombre": "Matias",
+        "apellido": "Avalos",
+        "posicion": "defensor",
+        "edad": 24,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/Azzara-Emanuel-400x300.jpg",
+        "id": 3,
+        "nombre": "Emanuel",
+        "apellido": "Azzara",
+        "posicion": "defensor",
+        "edad": 24,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/Brandan-Rodrigo-400x300.jpg",
+        "id": 26,
+        "nombre": "Rodrigo",
+        "apellido": "Brandan",
+        "posicion": "volante",
+        "edad": 22,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/Casco-Agustin-400x300.jpg",
+        "id": 34,
+        "nombre": "Agustin",
+        "apellido": "Casco",
+        "posicion": "defensor",
+        "edad": 23,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/Charpentier-Paul-400x300.jpg",
+        "id": 32,
+        "nombre": "Paul",
+        "apellido": "Charpentier",
+        "posicion": "delantero",
+        "edad": 20,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/De-Tomasso-Juan-Ignacio-400x300.jpg",
+        "id": 14,
+        "nombre": "Juan Ignacio",
+        "apellido": "De Tomaso",
+        "posicion": "defensor",
+        "edad": 27,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/Dos-Santos-Eduardo-400x300.jpg",
+        "id": 17,
+        "nombre": "Eduardo",
+        "apellido": "Dos Santos",
+        "posicion": "delantero",
+        "edad": 33,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/Falon-Manuel-400x300.jpg",
+        "id": 10,
+        "nombre": "Emanuel",
+        "apellido": "Falon",
+        "posicion": "volante",
+        "edad": 25,
+        "pais": "Argentina"
+    },
+
+    {
+        "img_url": "img/Leon-Robert-400x300.jpg",
+        "id": 23,
+        "nombre": "Robert",
+        "apellido": "Leon",
+        "posicion": "arquero",
+        "edad": 19,
+        "pais": "Argentina"
+    }
+]
